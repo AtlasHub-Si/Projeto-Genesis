@@ -25,3 +25,10 @@ A AtlasHub desenvolve a tecnologia. A GWD é a operação piloto proposta. Genes
 Demonstração navegável e documentação de trabalho. Não comprova uma holding constituída, agentes em produção, clientes contratados ou receitas realizadas. Os valores financeiros são hipóteses internas. O fundador pretende preservar 51% de capital e votos; esse objetivo exige formalização própria.
 
 A comunidade não confere participação societária. A via de investimento regista interesse e não recebe pagamentos. Dados pessoais, segredos, contratos restritos e listas de interessados ficam fora deste repositório público.
+
+
+---
+
+## AtlasHub.SI — legal identity, support and provenance
+
+This project forms part of the [AtlasHub.SI ecosystem](https://atlashub.si), stewarded with the [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas) source reference. See [ATLAS.md](ATLAS.md), [LEGAL.md](LEGAL.md) and [LICENSE](LICENSE) for the original-materials rights notice. **Legal:** legal@Atlas-SI.com · **Support:** support@AtlasHub.SI.
